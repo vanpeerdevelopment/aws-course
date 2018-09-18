@@ -1,2 +1,5 @@
-# aws-course
-Notes for the aws udemy course
+# AWS Certified Solutions Architect Associate
+My notes for the [AWS Certified Solutions Architect Associate Udemy course](https://www.udemy.com/aws-certified-solutions-architect-associate/learn/v4/overview)
+
+## Sections
+1. [Introduction To The Course](section-01-introduction.md)
