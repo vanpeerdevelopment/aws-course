@@ -3,3 +3,4 @@ My notes for the [AWS Certified Solutions Architect Associate Udemy course](http
 
 ## Sections
 1. [Introduction To The Course](section-01-introduction.md)
+2. [AWS - 10.000 Feet Overview](section-02-10000-feet-overview.md)
