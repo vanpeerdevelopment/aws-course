@@ -273,7 +273,7 @@
 ## 8. AWS - 10.000 Foot Overview Part 4
 #### Security & Identity & Compliance
 ###### IAM (__exam__)
-- Identity & Access Management
+- Identity Access Management
 
 ###### Cognito
 - Way of doing device authentication using Facebook, Gmail, LinkedIn...
