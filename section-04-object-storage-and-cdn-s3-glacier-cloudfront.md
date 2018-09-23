@@ -43,6 +43,7 @@
 - Stored redundantly across multiple devices (disks) in multiple facilities (AZ's)
 
 ###### S3 One Zone IA
+- Formerly called reduced redundancy storage (RRS)
 - Infrequently accessed, but requires rapid access when needed
 - Cheaper than IA, but charged for retrieval
 - Stored in one AZ
