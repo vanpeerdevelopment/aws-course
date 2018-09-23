@@ -1,4 +1,4 @@
-# Section 0 - [AWS CLI](- https://aws.amazon.com/cli/) 
+# Section 0 - [AWS CLI](https://aws.amazon.com/cli/) 
 - Use all the functionality provided in the AWS management console from your terminal
 - Install using `brew install awscli`
 - Create a _cli_ user in IAM
