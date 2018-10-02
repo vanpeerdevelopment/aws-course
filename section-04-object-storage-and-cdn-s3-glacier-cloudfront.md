@@ -12,7 +12,7 @@
 - Used to group files
 - Contains folders and files
 - Needs a globally unique name
-- Will be assigned a DNS name (_https://s3-<region>.amazonaws.com/<bucket-name>_)
+- Will be assigned a DNS name (_https://s3-< region >.amazonaws.com/< bucket-name >_)
 
 #### Data Consistency Model
 - Read after Write consistency for PUTS of new objects: uploaded file immediately available
@@ -129,7 +129,7 @@
 
 ## 22. Create a CloudFront CDN - Lab
 #### Origin settings
-- Origin domain nam: S3 bucket, ...
+- Origin domain name: S3 bucket, ...
 - Origin path (optional): folder
 - Restrict bucket access: only make files in the bucket accessible using the distribution url
 - Origin access identity: a special cloud front user who will need access to the S3 bucket
@@ -220,14 +220,14 @@
 #### Client
 - Install the snowball client to be able to connect to the snowball
 - Get access credentials in the AWS console
-- Connect: `./snowball start -i <ip> -m <path to manifast> -u <access code>`
-- Copy files: `./snowball cp <file> s3://<bucket-name>`
+- Connect: `./snowball start -i < ip > -m < path to manifast > -u < access code >`
+- Copy files: `./snowball cp < file > s3://< bucket-name >`
 - Disconnect: `./snowball stop`
 
 
 ## 27. S3 Transfer Acceleration
 - Utilise the CloudFront edge network to accelerate uploads to S3. Use a distinct url to upload to an edge location which will then transfer the file to S3.
-- Url: `https://<bucket-name>.s3-accelerate.amazonaws.com`
+- Url: `https://< bucket-name >.s3-accelerate.amazonaws.com`
 - Can be configured in the bucket properties
 
 
@@ -235,7 +235,7 @@
 - If you want to use your own domain name it has to be exactly the same as the bucket name
 - Serverless
 - Configure static website hosting in the bucket properties
-- `http://<bucket-name>.s3-website.<region>.amazonaws.com`
+- `http://< bucket-name >.s3-website.< region >.amazonaws.com`
 - Configure index and error page
 - Upload the files and make them publicly accessible
 

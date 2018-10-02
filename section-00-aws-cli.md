@@ -5,11 +5,11 @@
     - Create an _admins_ group with the `AdministratorAccess` policy
     - Create a _cli_ user with only programmatic access and add him to the _admins_ group 
 - Configure the cli: `aws configure`
-    - Access key id: <access key id of the cli user>
-    - Secret access key: <secret access key of the cli user>
+    - Access key id: < access key id of the cli user >
+    - Secret access key: < secret access key of the cli user >
     - Default region: eu-central-1
-    - Default output format: <json|text|table>
+    - Default output format: < json|text|table >
     - These configuraton settings will be stored in `~/.asw/credentials` and `~/.aws/config`
-- Can for intance be used to easily copy all contents from one s3 bucket to another: `aws s3 cp --recursive s3://<source-bucket> s3://<destination-bucket>`
+- Can for intance be used to easily copy all contents from one s3 bucket to another: `aws s3 cp --recursive s3://< source-bucket > s3://< destination-bucket >`
 - [User guide](https://docs.aws.amazon.com/cli/latest/userguide)
 - [Reference](https://docs.aws.amazon.com/cli/latest/reference/) 

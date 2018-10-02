@@ -286,7 +286,7 @@
 - Agent which can be installed on virtual machines or EC2 instances to scan for vulnerabilities
 
 ###### Macie
-- Scan S3 bucket for Personal îdentifiable Information 
+- Scan S3 bucket for Personal identifiable Information 
 - E.g. names, credit card numbers, ...
 
 ###### Certificate Manager (__exam__)
