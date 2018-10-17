@@ -9,3 +9,4 @@ My notes for the [AWS Certified Solutions Architect Associate Udemy course](http
 4. [AWS Object Storage and CDN - S3, Glacier and CloudFront](section-04-object-storage-and-cdn-s3-glacier-cloudfront.md)
 5. [EC2 - The Backbone of AWS](section-05-ec2-the-backbone-of-aws.md)
 6. [Route53](section-06-route53.md)
+7. [Databases](section-07-databases.md)
