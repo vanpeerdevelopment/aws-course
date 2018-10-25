@@ -10,3 +10,4 @@ My notes for the [AWS Certified Solutions Architect Associate Udemy course](http
 5. [EC2 - The Backbone of AWS](section-05-ec2-the-backbone-of-aws.md)
 6. [Route53](section-06-route53.md)
 7. [Databases](section-07-databases.md)
+8. [VPC](section-08-vpc.md)
