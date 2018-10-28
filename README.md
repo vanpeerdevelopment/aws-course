@@ -11,3 +11,4 @@ My notes for the [AWS Certified Solutions Architect Associate Udemy course](http
 6. [Route53](section-06-route53.md)
 7. [Databases](section-07-databases.md)
 8. [VPC](section-08-vpc.md)
+9. [Application Services](section-09-application-services.md)
