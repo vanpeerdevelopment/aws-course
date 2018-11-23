@@ -13,3 +13,4 @@ My notes for the [AWS Certified Solutions Architect Associate Udemy course](http
 8. [VPC](section-08-vpc.md)
 9. [Application Services](section-09-application-services.md)
 10. [The Real World - Creating a fault tolerant Word Press Site](section-10-real-world.md)
+11. [The Well Architected Framework](section-11-well-architected-framework.md)
